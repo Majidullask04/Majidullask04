@@ -131,13 +131,31 @@ flowchart LR
 
 ---
 
+### 🧊 3D Contribution Summary
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Majidullask04/Majidullask04/main/profile-summary-card-output/github_dark/0-profile-details.svg" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Majidullask04/Majidullask04/main/profile-summary-card-output/github_dark/2-repos-per-language.svg" width="45%" />
+  <img src="https://raw.githubusercontent.com/Majidullask04/Majidullask04/main/profile-summary-card-output/github_dark/4-stats.svg" width="45%" />
+</p>
+
+> Generated via [github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards). Add `summary-cards.yml` to `.github/workflows/`, push, and it commits the card SVGs into a `profile-summary-card-output/` folder in this repo — self-hosted, so it won't break if the public demo service goes down.
+
+---
+
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Majidullask04/Majidullask04/output/github-contribution-grid-snake.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Majidullask04/Majidullask04/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Majidullask04/Majidullask04/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Majidullask04/Majidullask04/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
-> Generated via the [Platane/snk](https://github.com/Platane/snk) GitHub Action.
+> Generated via [Platane/snk](https://github.com/Platane/snk). Add `snake.yml` to `.github/workflows/` in this repo, push, and it renders within a few minutes on the `output` branch.
 
 ---
 
