@@ -49,39 +49,39 @@
 
 ### 🚀 Featured Projects
 
-**[Production DevSecOps CI/CD Platform](https://github.com/Majidullask04/3-tier-devsecops-pipeline)**
+**[Production DevSecOps CI/CD Platform](https://github.com/Majidullask04/3-Tier-DevSecOps-Mega-Project)**
 `Jenkins` `Docker` `Kubernetes` `SonarQube` `Trivy` `Gitleaks` `K3s`
 - Production-ready Jenkins Declarative Pipeline with dynamic Docker discovery, building 11+ microservices with zero manual configuration
 - Full DevSecOps workflow: Gitleaks secret detection, SonarQube Quality Gates, Trivy scanning for filesystems and containers
 - Multi-architecture Docker builds (ARM64/AMD64) with automated Docker Hub tagging
 - Streamlined build → push → deploy flow to K3s, cutting manual deployment effort by ~90%
 
-**[Production Kubernetes Platform with GitOps & Monitoring](https://github.com/Majidullask04/microservices-kubernetes)**
-`K3s` `Argo CD` `Prometheus` `Grafana` `Ingress` `Persistent Volumes`
-- Production-grade K3s cluster hosting 11+ containerized workloads
-- Full manifest set: Deployments, Services, Namespaces, ConfigMaps, Secrets, Ingress, PVs
-- Prometheus-Grafana monitoring stack with custom dashboards across 10+ workloads
-- GitOps deployment via Argo CD auto-sync from GitHub
+**[Google Microservices Demo — Kubernetes Deployment](https://github.com/Majidullask04/microservices-demo)**
+`Kubernetes` `Docker Compose` `gRPC` `Service Discovery` `GitOps`
+- Deployed Google's official 11-service Cymbal Shops microservices demo across Docker Compose and Kubernetes
+- Configured service-to-service communication, load balancing, and self-healing for distributed microservices architecture
+- Full build documented in a companion [documentation repo](https://github.com/Majidullask04/microservices-devops-platform-Documentation-)
 
-**[AWS Amplify + Kubernetes Deployment](https://github.com/Majidullask04/amplify-k8s-deployment)**
-`React` `Vite` `AWS Amplify` `AWS EKS` `Kubernetes`
-- React/Vite frontend with automated deployment via AWS Amplify
-- Kubernetes workloads provisioned and managed on AWS EKS
-- Deployments, Services, and Ingress resources for a scalable, highly available architecture
+**[AWS Amplify Deployment](https://github.com/Majidullask04/amplify-vite-react-template)**
+`React` `Vite` `AWS Amplify`
+- React/Vite frontend with automated deployment via AWS Amplify Gen 2
 
-**Google Microservices Demo — Full Stack Deployment**
-`Microservices` `Docker Compose` `Kubernetes` `gRPC` `Service Discovery`
-- Deployed Google's official 11-service microservices demo across Docker Compose and Kubernetes
-- Configured service-to-service communication, load balancing, and self-healing
+**[Three-Tier Application with Docker Compose](https://github.com/Majidullask04/Three-Tier-Applications)**
+`Docker` `Docker Compose` `Multi-tier Architecture`
+- Deployed and managed a multi-tier full-stack application with Docker and Docker Compose for improved scalability and portability
 
-**Node.js REST API with MongoDB & Containerized CI/CD**
+**[CI/CD Automation](https://github.com/Majidullask04/ci-cd-automation)**
+`CI/CD` `Automation`
+- Ongoing pipeline automation work — build, test, and deployment workflows
+
+**[Node.js REST API with MongoDB & Containerized CI/CD](https://github.com/Majidullask04/node-express-mongoose-demo)**
 `Node.js` `Express` `MongoDB` `Docker` `CI/CD`
 - CRUD REST API with MongoDB integration, containerized with Docker
 - Automated CI/CD pipeline for testing, building, and deploying with integrated security scanning
 
 ---
 
-### 🚧 Currently Building — ExamAid Pro
+### 🚧 Currently Building — [ExamAid Pro](https://github.com/Majidullask04/examaid-pro)
 
 ```text
 Frontend   → Vite + React + TypeScript
